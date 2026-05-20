@@ -1,0 +1,4 @@
+## Sección 1: Entorno de laboratorio
+
+El laboratorio virtual se implementa sobre un sistema operativo Windows 11, utilizando GNS3 como plataforma de simulación de red. GNS3 requiere dos componentes principales: la aplicación de escritorio, que actúa como interfaz gráfica y orquestador, y la GNS3 VM, una máquina virtual basada en Linux que ejecuta los appliances de red (routers, switches y firewalls virtualizados) mediante KVM. La GNS3 VM se importa como archivo OVA en VMware Workstation Player y se conecta automáticamente con la aplicación GNS3 en el primer arranque.
+La elección de hardware virtualizado responde a criterios de coste, reproducibilidad y seguridad: permite replicar una infraestructura empresarial compleja sin hardware físico, facilita la toma de snapshots antes de cada prueba de ataque y garantiza que los experimentos queden contenidos en un entorno aislado.
