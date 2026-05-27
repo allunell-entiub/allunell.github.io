@@ -46,6 +46,8 @@ Los objetivos específicos del proyecto son:
 
 Todo el entorno se despliega en GNS3 sobre Windows, utilizando imágenes IOSv, IOSvL2 y pfSense ejecutadas en la GNS3 VM mediante KVM.
 
+<img width="3200" height="2400" alt="topologia_redes3" src="https://github.com/user-attachments/assets/93043cda-5109-49c8-b4bf-3d0150c9b1a4" />
+
 ---
 
 ## 2. Entorno de laboratorio e instalación de GNS3
